@@ -4,8 +4,8 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Net.Sockets;
-//using System.Web.Http;
-//using MVC.API.Models;
+using System.Web.Http;
+using MVC.API.Models;
 namespace MVC.API.Controllers
 {
     public class SystemInformationController : ApiController
